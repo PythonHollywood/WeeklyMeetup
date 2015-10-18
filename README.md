@@ -42,12 +42,12 @@ uncertain about using Git you can download the repository as a zip
 archive from GitHub. We do however recommend that you become accustomed
 to working with Git if you are serious about learning programming.
 
-To get started with Git and GitHub we recommend this
-[interactive tutorial](https://try.github.io). Once you've completed it
-you should be ready to install Git on your machine. We recommend that
-you
-[install the GitHub desktop app](https://help.github.com/articles/set-up-git/)
-which includes core Git.
+If you want to get started with Git but don't know where to start, check out
+this [tutorial](https://github.com/PythonHollywood/WeeklyMeetup/wiki/Get-Started-with-Git-and-GitHub)
+for cloning a repository from GitHub.
+
+To learn more about working with Git and GitHub we recommend this
+[interactive tutorial](https://try.github.io).
 
 # Quick Start
 

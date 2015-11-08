@@ -1,11 +1,11 @@
 import oauth2
 import urllib
 
-CONSUMER_SECRET = 'AhwROzia5YDDG14dSfuBF1DqnLVGjq6onlmKoBR69yb5HBm2Vf'
-CONSUMER_KEY = 'aHEvWsmVQgXLkoOG7mXbTHH9e'
+CONSUMER_SECRET = ''
+CONSUMER_KEY = ''
 
-ACCESS_TOKEN = '39890579-oPwvAOrY95ayfVZRbgtXLDNfUYPVQNpzw9Pn4dQke'
-ACCESS_TOKEN_SECRET = 'vPoNhZGd9pDSxkpQQPQEbDvdVEUZZyIAldKzOqmpyFqZT'
+ACCESS_TOKEN = ''
+ACCESS_TOKEN_SECRET = ''
 
 
 def update_profile_pic(mood):
